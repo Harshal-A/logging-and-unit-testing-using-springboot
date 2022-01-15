@@ -1,0 +1,46 @@
+2022-01-11 16:56:29.647  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : Starting LoggingDemoApplication using Java 11.0.12 on LAPTOP-F5OJ1IJ9 with PID 8868 (E:\Code-and-projects\Harshal_new\Projects\Logging\logging-demo\target\classes started by harsh in E:\Code-and-projects\Harshal_new\Projects\Logging\logging-demo)
+2022-01-11 16:56:29.648  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : No active profile set, falling back to default profiles: default
+2022-01-11 16:56:29.717  INFO 8868 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2022-01-11 16:56:29.718  INFO 8868 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2022-01-11 16:56:30.974  INFO 8868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-01-11 16:56:30.990  INFO 8868 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-11 16:56:30.990  INFO 8868 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-11 16:56:31.086  INFO 8868 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-11 16:56:31.087  INFO 8868 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 1364 ms
+2022-01-11 16:56:31.582  INFO 8868 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-01-11 16:56:31.625  INFO 8868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-11 16:56:31.641  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : Started LoggingDemoApplication in 2.682 seconds (JVM running for 4.15)
+2022-01-11 16:57:32.236  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : Starting LoggingDemoApplication using Java 11.0.12 on LAPTOP-F5OJ1IJ9 with PID 8868 (E:\Code-and-projects\Harshal_new\Projects\Logging\logging-demo\target\classes started by harsh in E:\Code-and-projects\Harshal_new\Projects\Logging\logging-demo)
+2022-01-11 16:57:32.236  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : No active profile set, falling back to default profiles: default
+2022-01-11 16:57:32.529  INFO 8868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-01-11 16:57:32.530  INFO 8868 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-11 16:57:32.531  INFO 8868 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-11 16:57:32.551  INFO 8868 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-11 16:57:32.551  INFO 8868 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 311 ms
+2022-01-11 16:57:32.656  INFO 8868 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-01-11 16:57:32.668  INFO 8868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-11 16:57:32.673  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : Started LoggingDemoApplication in 0.481 seconds (JVM running for 65.181)
+2022-01-11 16:57:32.676  INFO 8868 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-01-11 16:57:46.536  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : Starting LoggingDemoApplication using Java 11.0.12 on LAPTOP-F5OJ1IJ9 with PID 8868 (E:\Code-and-projects\Harshal_new\Projects\Logging\logging-demo\target\classes started by harsh in E:\Code-and-projects\Harshal_new\Projects\Logging\logging-demo)
+2022-01-11 16:57:46.536  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : No active profile set, falling back to default profiles: default
+2022-01-11 16:57:46.772  INFO 8868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-01-11 16:57:46.773  INFO 8868 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-11 16:57:46.774  INFO 8868 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-11 16:57:46.794  INFO 8868 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-11 16:57:46.795  INFO 8868 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 253 ms
+2022-01-11 16:57:46.890  INFO 8868 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-01-11 16:57:46.901  INFO 8868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-11 16:57:46.907  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : Started LoggingDemoApplication in 0.412 seconds (JVM running for 79.416)
+2022-01-11 16:57:46.910  INFO 8868 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-01-11 16:59:22.747  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : Starting LoggingDemoApplication using Java 11.0.12 on LAPTOP-F5OJ1IJ9 with PID 8868 (E:\Code-and-projects\Harshal_new\Projects\Logging\logging-demo\target\classes started by harsh in E:\Code-and-projects\Harshal_new\Projects\Logging\logging-demo)
+2022-01-11 16:59:22.748  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : No active profile set, falling back to default profiles: default
+2022-01-11 16:59:22.975  INFO 8868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2022-01-11 16:59:22.976  INFO 8868 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2022-01-11 16:59:22.977  INFO 8868 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.56]
+2022-01-11 16:59:22.996  INFO 8868 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2022-01-11 16:59:22.997  INFO 8868 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 246 ms
+2022-01-11 16:59:23.083  INFO 8868 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2022-01-11 16:59:23.095  INFO 8868 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2022-01-11 16:59:23.102  INFO 8868 --- [restartedMain] c.w.loggingdemo.LoggingDemoApplication   : Started LoggingDemoApplication in 0.39 seconds (JVM running for 175.61)
+2022-01-11 16:59:23.108  INFO 8868 --- [restartedMain] .ConditionEvaluationDeltaLoggingListener : Condition evaluation unchanged
+2022-01-11 17:01:13.421  INFO 8868 --- [RMI TCP Connection(21)-127.0.0.1] inMXBeanRegistrar$SpringApplicationAdmin : Application shutdown requested.
